@@ -14,18 +14,3 @@ provides a decent development velocity. So, this game has been developed the bas
 programming.
 
 For further details take a look at the [report](https://github.com/DinukaGayashan/SKY-ATTACK-Game/blob/main/SKY%20ATTACK%20v1.0%20report.pdf).
-
-<br>
-
-## CONTROLS
-
-The game is designed to give user the full control of the gameplay. The controls are displayed
-under the instructions option and displayed in the gameplay interface.
-Gameplay controls:
-
-[space] – shooting<br>
-[<] – moving shooter to left<br>
-[>] – moving shooter to right<br>
-
-Player can quit the game in the gameplay interface by pressing [ESC]. It ends the
-current game and goes back to the main menu.
